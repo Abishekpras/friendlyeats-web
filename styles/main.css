@@ -17,10 +17,10 @@
  */
  html,
  body {
-   font-family: 'Roboto', 'Helvetica', sans-serif;
+   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
    margin: 0px;
    padding: 0px;
-   background-color: #eee;
+   background-color: #f5f3ef;
  }
  
  body > div > i {display: none !important;}
@@ -52,7 +52,7 @@
  
  .back {float: left;}
  
- #site-header, #filter {background-color: #3367D6;}
+ #site-header, #filter {color: #fff; background-color: #81a7ff;}
  
  #generic-header button {color: black;}
 
